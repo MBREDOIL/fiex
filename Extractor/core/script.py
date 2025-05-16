@@ -7,7 +7,7 @@ IMG = ["https://img.freepik.com/premium-photo/king-cobra-snake-cool-character-ba
 START_TXT = """
 **ʜᴇʟʟᴏ** {} ,
 
-**WELCOME TO EXTRACTOR TO EXTRACT TXT GIVE THE FOLLOWING COMMAND\n\n ᆞCᆞᆞOᆞᆞMᆞᆞMᆞᆞAᆞᆞNᆞᆞDᆞ\n\n \n /api  - to find appx api\n /appx - for appx\n /cp   - classplus\n /khan - khan\n /pw   - physicswallah\n /otp  - for appx otp login\n /kd   - for kd campus"""
+**WELCOME TO SAURABH BOTS TO EXTRACT TXT GIVE THE FOLLOWING COMMAND\n\n ᆞCᆞᆞOᆞᆞMᆞᆞMᆞᆞAᆞᆞNᆞᆞDᆞ\n\n \n /api  - to find appx api\n /appx - for appx\n /cp   - classplus\n /khan - khan\n /pw   - physicswallah\n /otp  - for appx otp login\n /kd   - for kd campus"""
 
 FORCE_MSG = """
 **ʜᴇʏ** {}
