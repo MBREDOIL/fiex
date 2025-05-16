@@ -30,7 +30,7 @@ async def subscribe(app, message):
       try:
          user = await app.get_chat_member(update_channel, message.from_user.id)
          if user.status == "kicked":
-            await message.reply_text("Sorry Sir, You are Banned. Contact My Support Group @DevsOops")
+            await message.reply_text("Sorry Sir, You are Banned. Contact My Support Group @finaticgod")
             return 1
       except UserNotParticipant:
          await message.reply_photo(photo="https://img.freepik.com/premium-photo/king-cobra-snake-cool-character-background-hd-wallpaper_862489-10700.jpg?w=360",caption=script.FORCE_MSG.format(message.from_user.mention), reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("🤖 ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ 🤖", url=f"{url}")]]))
