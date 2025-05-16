@@ -1,34 +1,34 @@
 {
-  "name": "𝖤𝖣𝖴𝖢𝖠𝖳𝖨𝖮𝖭 𝖧𝖴𝖡",
+  "name": "SAURABH BOTS",
   "description": "Telegram Bot using Pyrogram",
   "repository": "https://github.com/DAXXTEAM",
   "env": {
     "API_ID": {
-      "description": "16253557",
+      "description": "26003553",
       "required": true
     },
     "API_HASH": {
-      "description": "81171c25e4cb9062cb10da8b7730432a",
+      "description": "c1f27c622acecf9bf6e71d0d295e75f9",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "7183102042:AAEnVz9WmroQNCl6luhjTJtJ_CrDKiU7Zog",
+      "description": "8172684751:AAFrKOePs4i_8Zbo3OciESAnP40EVT9cQlQ",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "DILDAAREXTRACTORBOT",
+      "description": "Nooneknowswhoknows_bot",
       "required": true
     },
     "OWNER_ID": {
-      "description": "1996039956",
+      "description": "8152589217",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "Comma-separated list of sudo users' IDs",
+      "description": "8152589217,6073936818",
       "required": false
     },
     "CHANNEL_ID": {
-      "description": "-1002233460126",
+      "description": "-1002656120306",
       "required": true
     },
     "MONGO_URL": {
@@ -36,7 +36,7 @@
       "required": true
     },
     "PREMIUM_LOGS": {
-      "description": "1",
+      "description": "-1002630993737",
       "required": true
     }
   },
